@@ -1,0 +1,1201 @@
+Employee_ID,Age,Department,Monthly_Salary,Years_at_Company,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Attrition
+E1000,59,Sales,41475,15,1,Good,Medium,No
+E1001,49,Operations,33888,6,4,Excellent,High,No
+E1002,35,Operations,58732,13,3,,Very High,No
+E1003,28,IT,96623,13,3,Good,Low,No
+E1004,41,IT,61305,3,4,Good,High,No
+E1005,59,IT,61037,14,2,Average,Low,No
+E1006,39,Sales,24346,2,3,Good,Medium,No
+E1007,43,Operations,15587,4,4,Poor,High,No
+E1008,31,IT,27763,0,2,Good,Medium,No
+E1009,31,HR,74165,2,3,Average,Medium,Yes
+E1010,44,IT,84615,14,2,Poor,Medium,No
+E1011,56,Sales,51116,7,2,Poor,Medium,No
+E1012,5,Sales,100751,3,1,Average,Medium,Yes
+E1013,44,Finance,106353,1,2,Good,High,No
+E1014,23,Sales,105301,9,3,Good,Low,Yes
+E1015,42,IT,110648,3,4,Good,High,Yes
+E1016,22,Sales,40556,2,3,Good,High,No
+E1017,44,HR,74042,1,4,Good,High,No
+E1018,50,HR,33099,16,4,Average,Very High,Yes
+E1019,58,HR,60096,40,1,Poor,Very High,No
+E1020,22,Finance,86986,20,3,Good,High,No
+E1021,41,HR,28230,19,1,Good,Low,Yes
+E1022,53,IT,44009,40,3,Poor,High,No
+E1023,32,IT,85969,12,4,Average,Medium,No
+E1024,42,IT,48866,4,1,Poor,Very High,No
+E1025,45,Operations,99246,20,3,Good,Very High,No
+E1026,47,Finance,91975,8,3,Average,High,No
+E1027,48,Sales,56855,35,3,Good,High,No
+E1028,36,Sales,96557,5,2,Excellent,Low,No
+E1029,35,HR,21416,4,2,Average,Low,No
+E1030,23,IT,87516,9,1,,Medium,No
+E1031,57,Sales,70915,7,2,Good,High,Yes
+E1032,27,IT,33058,6,1,Good,High,No
+E1033,41,IT,91637,6,3,Good,High,No
+E1034,29,HR,55718,5,1,Good,Very High,Yes
+E1035,59,Finance,47602,20,4,Good,Medium,Yes
+E1036,38,Sales,89658,19,3,Average,Low,No
+E1037,24,Sales,93112,2,3,Poor,Very High,No
+E1038,45,Finance,73067,18,2,Poor,Very High,Yes
+E1039,34,IT,42516,35,3,Average,Very High,No
+E1040,29,IT,102969,14,4,Average,Very High,No
+E1041,46,IT,16089,3,1,Average,Medium,No
+E1042,22,Sales,52346,11,2,Poor,High,No
+E1043,40,Finance,89663,5,3,Good,Low,No
+E1044,48,Finance,25487,18,1,Excellent,Low,No
+E1045,27,IT,15155,3,1,Excellent,Very High,No
+E1046,28,HR,82494,14,2,Good,Very High,No
+E1047,55,IT,91229,8,1,Good,Medium,No
+E1048,34,HR,119648,4,3,Excellent,Very High,No
+E1049,37,Sales,53547,12,2,Average,Low,No
+E1050,56,Operations,43795,40,4,Average,Low,Yes
+E1051,5,Sales,70296,17,3,Excellent,High,Yes
+E1052,24,,36447,4,3,Good,High,No
+E1053,22,IT,51598,15,3,Good,Low,No
+E1054,26,Sales,56814,18,4,Average,Low,No
+E1055,24,IT,105751,13,2,Poor,Medium,No
+E1056,49,Operations,90330,15,4,Excellent,Medium,Yes
+E1057,38,Finance,113745,14,3,Good,Low,Yes
+E1058,46,Finance,102960,35,3,Average,Very High,Yes
+E1059,54,IT,78278,3,3,Average,High,No
+E1060,30,IT,70077,6,2,Good,Low,No
+E1061,56,Finance,117932,15,2,Good,Very High,No
+E1062,34,Sales,86906,35,3,Average,Low,No
+E1063,51,IT,24528,20,1,Excellent,High,No
+E1064,35,Sales,108812,35,3,Poor,High,No
+E1065,28,,65100,20,2,Average,Medium,No
+E1066,34,Operations,23179,7,1,Good,Medium,No
+E1067,43,Sales,63781,16,1,Average,Medium,No
+E1068,5,Finance,70267,15,1,Excellent,Medium,Yes
+E1069,41,Operations,97379,40,3,Good,High,Yes
+E1070,36,Sales,38952,9,2,Good,Very High,Yes
+E1071,38,IT,68798,9,,Poor,Very High,No
+E1072,44,Operations,113696,1,3,Poor,Very High,No
+E1073,46,Sales,65939,8,1,Average,Low,No
+E1074,45,IT,44516,16,3,Good,Medium,Yes
+E1075,95,HR,71526,10,4,Good,Medium,No
+E1076,49,Operations,25449,9,3,Excellent,High,No
+E1077,35,,65290,35,1,Good,High,No
+E1078,21,Operations,101661,16,4,Excellent,Low,No
+E1079,45,IT,87954,3,3,Good,Low,No
+E1080,27,Operations,37746,15,1,Average,Very High,No
+E1081,29,Finance,82990,19,1,Average,High,No
+E1082,44,HR,73810,14,3,Good,Medium,No
+E1083,21,Finance,98297,20,1,Average,Very High,No
+E1084,28,Sales,30223,4,4,Poor,Medium,Yes
+E1085,44,IT,87237,5,2,Good,Very High,No
+E1086,31,Sales,17597,16,4,Excellent,Medium,Yes
+E1087,37,Sales,80677,0,3,Poor,Low,No
+E1088,28,Sales,17659,18,1,Good,Very High,No
+E1089,55,IT,101516,3,1,Excellent,Medium,No
+E1090,55,HR,89567,16,3,Good,Medium,No
+E1091,53,Finance,30037,8,3,Poor,High,No
+E1092,25,Sales,61738,1,3,Average,Very High,No
+E1093,59,HR,118965,7,2,Good,Medium,No
+E1094,95,IT,86678,14,2,Good,High,No
+E1095,48,Finance,27109,6,1,Excellent,Medium,Yes
+E1096,27,HR,37010,5,3,Good,Very High,No
+E1097,29,IT,23787,0,1,Poor,Low,No
+E1098,28,Operations,23472,14,2,Poor,Very High,No
+E1099,32,IT,38383,40,3,Good,Very High,No
+E1100,54,Sales,76709,6,4,Average,Medium,No
+E1101,53,Sales,84785,16,2,Average,Medium,No
+E1102,43,Operations,49518,1,2,Good,Very High,No
+E1103,44,Sales,68909,8,3,Poor,High,No
+E1104,57,Operations,33351,8,3,Average,High,No
+E1105,55,IT,84624,12,2,Average,High,No
+E1106,5,Operations,68330,5,4,Average,Medium,No
+E1107,42,Finance,30282,5,4,Poor,Medium,No
+E1108,47,,99866,19,2,Good,Very High,No
+E1109,55,HR,36778,19,2,Excellent,Low,No
+E1110,21,Finance,39264,20,3,Average,Medium,No
+E1111,55,IT,74675,2,3,Good,Very High,No
+E1112,57,IT,20075,16,1,Average,Very High,No
+E1113,34,IT,90948,16,3,Good,Low,Yes
+E1114,23,Operations,63454,11,3,Excellent,High,No
+E1115,21,,43365,15,2,Good,Very High,No
+E1116,25,Finance,87766,14,3,Excellent,Very High,No
+E1117,46,IT,63200,12,4,Poor,Very High,No
+E1118,34,IT,26002,40,1,Poor,High,No
+E1119,59,Finance,28947,0,2,Excellent,High,No
+E1120,47,Sales,94222,16,2,Average,Low,No
+E1121,29,Sales,109840,2,4,Average,Medium,No
+E1122,35,HR,93610,14,,Good,High,No
+E1123,35,HR,67142,3,2,Excellent,Medium,Yes
+E1124,46,HR,71307,3,3,Excellent,Medium,No
+E1125,33,Sales,19493,17,3,Average,High,No
+E1126,52,Sales,65085,16,3,Excellent,Very High,No
+E1127,59,Sales,49228,18,2,Poor,Low,Yes
+E1128,52,,94676,10,2,Poor,Medium,No
+E1129,24,IT,66875,19,2,Good,Very High,No
+E1130,50,HR,46655,2,3,Poor,High,No
+E1131,57,IT,58472,7,1,Average,Medium,No
+E1132,43,Sales,64437,13,4,Good,Medium,No
+E1133,59,Operations,64416,0,1,Average,Medium,No
+E1134,35,Finance,74711,13,2,Average,Very High,No
+E1135,49,Sales,21816,1,3,Average,Very High,Yes
+E1136,56,IT,92175,40,3,Good,Very High,No
+E1137,33,Operations,79307,3,1,Good,Medium,No
+E1138,52,Operations,61733,18,2,Good,Medium,Yes
+E1139,27,IT,110028,5,,Good,Low,Yes
+E1140,42,IT,26240,0,2,Good,Low,Yes
+E1141,48,Sales,113234,16,2,Excellent,Very High,No
+E1142,22,,107493,7,4,Poor,Very High,No
+E1143,26,Sales,113344,18,1,Average,High,Yes
+E1144,48,Operations,86363,20,3,Excellent,Very High,No
+E1145,48,IT,47762,0,2,Average,Low,Yes
+E1146,40,IT,23259,4,2,,Low,No
+E1147,50,IT,65139,15,2,Good,Low,No
+E1148,31,Sales,29849,5,1,Good,Medium,No
+E1149,48,Sales,96768,7,2,Average,Medium,No
+E1150,45,Sales,104709,12,1,Average,Very High,No
+E1151,59,Sales,69869,15,3,Average,High,No
+E1152,53,Finance,78095,2,2,Good,High,No
+E1153,21,HR,85910,18,2,Good,High,No
+E1154,47,Sales,101710,11,4,Excellent,Medium,Yes
+E1155,33,,38567,15,3,Average,Low,Yes
+E1156,95,Operations,50292,10,1,Poor,Low,No
+E1157,23,Operations,89813,9,4,Average,Medium,No
+E1158,59,,112136,19,2,Good,High,No
+E1159,26,Sales,66631,3,1,Excellent,High,No
+E1160,28,HR,24885,11,3,Average,Very High,No
+E1161,47,Finance,74659,40,3,Good,Very High,No
+E1162,29,IT,69306,1,2,Average,High,No
+E1163,57,Sales,81314,35,2,Good,Medium,No
+E1164,53,Finance,80087,18,3,Excellent,High,No
+E1165,44,Sales,44165,4,2,Average,Very High,No
+E1166,35,Sales,73929,7,4,Average,High,No
+E1167,52,IT,82028,6,2,,Medium,No
+E1168,52,IT,110998,13,4,Excellent,Low,No
+E1169,44,IT,64812,40,3,Good,Medium,Yes
+E1170,95,Sales,65500,2,4,Good,Medium,Yes
+E1171,32,Operations,94151,17,3,Average,Very High,No
+E1172,59,HR,73643,15,3,Good,Medium,No
+E1173,22,Sales,59900,40,2,Excellent,Medium,No
+E1174,23,Operations,57946,18,2,Good,Very High,No
+E1175,57,,22851,18,2,Average,Very High,No
+E1176,37,Operations,31288,17,4,Average,Low,No
+E1177,22,Finance,87692,19,4,Average,High,Yes
+E1178,22,IT,82580,15,2,Average,Medium,No
+E1179,48,IT,22368,7,1,Poor,Very High,No
+E1180,43,Sales,100436,0,2,Average,Low,Yes
+E1181,57,IT,111136,16,3,Poor,High,No
+E1182,52,HR,61403,11,3,Average,Very High,No
+E1183,53,HR,106170,20,3,Good,High,No
+E1184,21,Finance,24168,10,,Average,High,No
+E1185,39,IT,101497,4,1,Poor,Medium,No
+E1186,22,Sales,64879,11,3,Average,Medium,No
+E1187,46,Sales,74871,16,2,Average,Very High,No
+E1188,52,IT,104388,5,2,Good,High,No
+E1189,26,Sales,113646,0,1,Poor,Very High,No
+E1190,52,Operations,47174,4,1,Good,Very High,No
+E1191,24,IT,114751,13,4,Excellent,High,Yes
+E1192,31,IT,107491,4,2,Good,Very High,Yes
+E1193,37,IT,21581,35,3,Good,High,No
+E1194,58,Finance,86853,0,4,Excellent,High,Yes
+E1195,44,HR,79046,17,3,Good,High,No
+E1196,25,IT,64678,15,1,Poor,High,No
+E1197,54,IT,41649,8,3,Average,Low,No
+E1198,26,HR,103668,18,2,Excellent,High,No
+E1199,42,Operations,97325,35,3,Average,Medium,No
+E1200,31,Finance,29567,4,3,Poor,Medium,No
+E1201,36,IT,95404,1,3,Good,Medium,Yes
+E1202,53,Operations,104906,14,2,Excellent,High,Yes
+E1203,29,Operations,111019,6,4,Average,Medium,No
+E1204,26,Finance,76944,3,1,Good,Low,No
+E1205,36,Finance,93002,0,1,Average,Very High,Yes
+E1206,49,IT,43803,12,2,Good,High,No
+E1207,23,IT,33230,19,1,Average,Medium,No
+E1208,40,IT,32862,35,2,Average,Low,No
+E1209,56,Finance,58355,6,4,Excellent,Very High,No
+E1210,39,Sales,46259,14,4,Good,Low,No
+E1211,46,Operations,114075,40,2,Good,Medium,Yes
+E1212,23,Operations,102445,13,2,Average,Low,No
+E1213,39,Sales,45795,40,2,Average,Very High,No
+E1214,40,Finance,23770,18,2,Good,Medium,No
+E1215,52,Sales,26093,35,1,Average,Very High,No
+E1216,27,HR,61571,19,4,Average,Low,No
+E1217,95,Finance,15193,17,2,Average,High,No
+E1218,53,Sales,115311,9,2,Good,High,No
+E1219,5,Finance,32569,8,1,Excellent,High,No
+E1220,59,Finance,26190,7,4,,High,No
+E1221,38,IT,77824,9,3,Good,Very High,No
+E1222,5,Sales,57752,16,4,Average,High,No
+E1223,21,HR,47327,1,3,Average,Very High,No
+E1224,31,IT,57070,5,2,Excellent,Medium,No
+E1225,48,,100925,4,2,Average,High,No
+E1226,45,IT,55197,8,3,,Very High,No
+E1227,43,HR,17261,4,2,Average,High,No
+E1228,51,IT,108905,17,3,,High,Yes
+E1229,50,IT,41512,19,1,Excellent,High,Yes
+E1230,55,Finance,21716,8,1,Excellent,Very High,No
+E1231,27,Sales,101795,16,3,Average,Low,No
+E1232,36,Finance,43933,16,3,Poor,High,No
+E1233,46,IT,19378,11,3,Average,High,No
+E1234,22,,55583,6,1,Average,Medium,Yes
+E1235,21,HR,100371,2,3,Poor,Low,No
+E1236,32,IT,44033,9,1,Good,Very High,No
+E1237,25,Operations,39000,1,1,Average,Medium,Yes
+E1238,57,Sales,90868,2,2,Good,High,No
+E1239,52,Operations,57604,15,1,Good,Medium,No
+E1240,29,IT,83336,1,2,Poor,Medium,No
+E1241,95,Sales,110074,9,2,,High,No
+E1242,55,HR,110655,5,2,Average,Low,No
+E1243,39,Finance,88869,35,1,Average,Low,No
+E1244,36,Sales,20410,10,1,Good,Medium,No
+E1245,23,IT,98375,40,1,Excellent,High,Yes
+E1246,40,HR,71044,6,1,Poor,Very High,No
+E1247,44,IT,78315,14,3,Average,Medium,No
+E1248,53,Sales,111055,5,2,Good,Very High,No
+E1249,44,Operations,86344,19,2,Average,Medium,No
+E1250,31,,21796,8,2,Good,Medium,No
+E1251,28,,101716,35,3,Excellent,High,No
+E1252,56,Finance,69245,19,4,,High,Yes
+E1253,58,Sales,58056,11,3,Poor,Very High,No
+E1254,5,Finance,32709,18,3,Average,Very High,No
+E1255,40,Sales,73557,19,3,Average,Low,No
+E1256,55,Sales,32543,2,3,Average,High,No
+E1257,45,HR,52418,14,3,Average,Medium,No
+E1258,55,IT,109611,1,2,Average,Medium,No
+E1259,45,Finance,118291,20,2,,Low,No
+E1260,49,IT,118001,1,2,Excellent,High,No
+E1261,38,IT,111038,35,4,Poor,Medium,No
+E1262,38,HR,31724,2,3,Average,Low,No
+E1263,22,,18828,5,3,Average,Low,No
+E1264,55,IT,32087,14,2,Average,Medium,No
+E1265,36,IT,27605,9,2,Good,Medium,No
+E1266,95,Sales,46337,8,1,Good,Very High,Yes
+E1267,56,Finance,20482,0,1,Excellent,High,No
+E1268,53,IT,80333,15,4,Good,Very High,No
+E1269,24,Sales,107541,5,3,Good,Low,Yes
+E1270,53,Sales,103296,8,2,Good,Medium,Yes
+E1271,34,IT,65952,3,4,Average,Very High,No
+E1272,41,IT,20463,1,2,Good,Low,No
+E1273,40,HR,85448,3,,Good,High,Yes
+E1274,28,,19648,0,2,Poor,Medium,Yes
+E1275,27,Sales,48623,18,2,Average,Very High,No
+E1276,23,IT,74156,9,2,Average,High,Yes
+E1277,37,Operations,50634,20,1,Excellent,Very High,No
+E1278,53,IT,59602,14,1,Average,Low,No
+E1279,32,IT,64334,35,3,Average,High,No
+E1280,42,HR,83648,18,4,Average,Very High,No
+E1281,42,HR,37054,15,3,Good,High,No
+E1282,50,,85028,20,1,Poor,Low,No
+E1283,58,IT,37207,35,3,,High,No
+E1284,58,Operations,95650,3,1,Excellent,Very High,Yes
+E1285,28,Sales,114821,1,1,Good,Low,No
+E1286,47,Sales,96554,12,3,Good,Medium,No
+E1287,47,Sales,36386,0,3,Poor,Very High,Yes
+E1288,54,IT,98276,16,1,Average,Very High,Yes
+E1289,41,HR,74518,12,1,Good,Low,No
+E1290,50,Operations,67781,3,,Poor,Low,No
+E1291,53,IT,67780,6,1,Average,Medium,No
+E1292,48,,76440,16,2,Good,Very High,No
+E1293,53,Sales,59199,8,3,Average,Low,No
+E1294,25,Operations,76035,3,1,Excellent,Medium,No
+E1295,39,Finance,23210,18,1,Poor,Medium,No
+E1296,24,Finance,59363,0,2,Good,Low,Yes
+E1297,55,Finance,93279,9,3,Good,Very High,No
+E1298,37,Finance,75348,3,3,Good,High,No
+E1299,48,IT,70284,8,3,Average,High,No
+E1300,50,Sales,87124,12,,Good,Medium,No
+E1301,49,Sales,83847,13,3,Excellent,High,Yes
+E1302,26,Operations,37432,9,2,Good,High,No
+E1303,55,IT,79089,5,2,Average,Low,Yes
+E1304,95,Finance,70398,15,3,Good,Medium,No
+E1305,57,IT,114291,5,3,Good,Very High,No
+E1306,44,Sales,18321,16,3,Average,Medium,No
+E1307,49,Sales,96348,9,3,Excellent,Low,Yes
+E1308,51,IT,52383,17,1,Average,High,No
+E1309,55,IT,93682,35,2,Good,Very High,No
+E1310,53,Sales,94190,17,2,Good,Medium,No
+E1311,41,IT,67893,2,1,Good,High,No
+E1312,52,Sales,50820,19,1,Excellent,Medium,No
+E1313,43,IT,81262,20,3,,Very High,No
+E1314,53,HR,18760,14,3,Average,Medium,No
+E1315,23,Finance,37190,14,2,Poor,Medium,No
+E1316,38,HR,82411,3,3,Poor,Medium,No
+E1317,45,IT,38377,8,3,Good,High,No
+E1318,51,Sales,61737,18,1,Excellent,Very High,No
+E1319,23,Sales,84569,16,3,Average,Very High,Yes
+E1320,5,HR,53211,10,3,Average,High,No
+E1321,44,IT,97909,8,3,Poor,High,No
+E1322,52,IT,18744,9,3,Excellent,High,No
+E1323,42,HR,39995,17,3,Average,Low,No
+E1324,43,IT,31977,19,1,Average,Medium,No
+E1325,22,Operations,112938,12,2,Good,Medium,No
+E1326,47,Finance,49542,7,1,Excellent,Very High,No
+E1327,22,Sales,25651,6,,Good,Medium,No
+E1328,46,IT,114239,16,1,Good,Low,No
+E1329,37,Sales,93931,20,1,Average,High,Yes
+E1330,5,Sales,110344,40,4,Good,Very High,Yes
+E1331,53,,117112,14,4,Good,Very High,No
+E1332,29,Sales,31715,19,3,,Medium,No
+E1333,59,IT,59409,14,1,Average,Very High,No
+E1334,49,IT,39306,0,1,Poor,High,Yes
+E1335,46,Finance,34086,13,2,Poor,Very High,No
+E1336,55,IT,29376,4,1,Average,High,No
+E1337,45,Sales,76350,10,1,Excellent,Low,No
+E1338,44,HR,86425,15,3,Poor,Low,Yes
+E1339,33,IT,118358,1,4,Good,High,No
+E1340,27,Sales,51636,7,2,Average,Medium,No
+E1341,56,HR,101120,10,3,Poor,Very High,No
+E1342,40,Sales,66649,17,3,Good,Medium,No
+E1343,21,Sales,49610,2,2,Average,Very High,Yes
+E1344,28,HR,25058,0,3,Average,Low,No
+E1345,36,Sales,89637,10,2,Good,Low,No
+E1346,34,IT,93033,15,1,Good,Low,No
+E1347,32,IT,85194,17,3,Poor,Very High,Yes
+E1348,43,Finance,91917,15,1,,Low,No
+E1349,35,Sales,79200,40,,Good,Low,No
+E1350,48,Sales,61619,9,1,Good,Low,No
+E1351,54,Sales,32154,17,3,Poor,Low,No
+E1352,22,IT,34539,5,2,Poor,Medium,Yes
+E1353,52,Finance,75058,18,1,Poor,Low,No
+E1354,43,Sales,77068,3,1,Average,Low,No
+E1355,42,Operations,92313,12,3,Average,Medium,No
+E1356,45,Sales,114932,13,4,Excellent,Medium,No
+E1357,42,IT,45373,2,4,Good,Very High,No
+E1358,42,Finance,48154,9,3,Average,High,No
+E1359,26,Operations,21031,5,3,Good,Low,No
+E1360,35,Finance,108533,0,3,Poor,Low,No
+E1361,57,Finance,86975,40,3,Good,Low,No
+E1362,53,HR,37785,13,3,Good,Very High,Yes
+E1363,28,Finance,93928,7,3,Good,Low,No
+E1364,25,Sales,43669,18,4,,High,No
+E1365,59,Operations,109475,13,2,Average,Medium,No
+E1366,24,IT,17282,9,4,Good,Very High,No
+E1367,26,Finance,49624,16,3,Excellent,Medium,No
+E1368,52,IT,63438,8,1,Good,Low,No
+E1369,50,IT,104900,5,1,Good,Low,Yes
+E1370,55,IT,82534,10,2,Excellent,Low,Yes
+E1371,5,Finance,46705,6,3,Poor,High,No
+E1372,36,Sales,53244,16,4,Excellent,High,Yes
+E1373,33,Sales,89964,0,1,Poor,Very High,No
+E1374,50,Sales,52437,35,4,Good,Medium,No
+E1375,39,Sales,92872,4,4,Excellent,Low,No
+E1376,37,Operations,89878,8,1,Average,Low,Yes
+E1377,39,Sales,87982,17,4,Good,Low,No
+E1378,48,,65583,20,,Average,Low,Yes
+E1379,46,HR,53392,1,3,,High,No
+E1380,57,Sales,22461,10,3,Excellent,Medium,No
+E1381,46,Finance,115123,5,,Good,Medium,No
+E1382,43,IT,25516,7,3,Good,Very High,No
+E1383,29,IT,94285,3,2,Excellent,High,Yes
+E1384,32,IT,32514,17,4,Average,Low,No
+E1385,21,Finance,115962,10,3,Average,Medium,Yes
+E1386,21,Sales,51268,4,3,Good,Medium,No
+E1387,54,,105486,14,2,Average,High,Yes
+E1388,52,,115424,17,3,Poor,Very High,No
+E1389,45,IT,51788,1,1,Poor,Very High,No
+E1390,5,Sales,90749,35,4,Poor,Low,No
+E1391,21,IT,76049,10,2,Excellent,Very High,No
+E1392,36,Sales,77493,12,1,Good,Medium,No
+E1393,59,Sales,51027,3,2,Good,Very High,Yes
+E1394,25,HR,108547,35,1,Average,Low,No
+E1395,42,IT,57849,6,3,Average,Medium,Yes
+E1396,49,Operations,115127,10,4,Average,Very High,No
+E1397,23,Finance,32858,35,4,Good,Very High,No
+E1398,32,Finance,99162,3,1,Good,High,No
+E1399,46,IT,94003,14,1,Excellent,Low,No
+E1400,36,HR,67395,0,4,Good,Very High,No
+E1401,57,HR,54758,40,4,Good,High,No
+E1402,42,,69312,2,3,Good,Medium,Yes
+E1403,49,Sales,83670,13,3,Excellent,High,No
+E1404,34,Operations,97279,5,2,Good,High,No
+E1405,48,IT,30434,17,4,Poor,Very High,No
+E1406,25,IT,79047,0,3,Good,Very High,No
+E1407,50,Finance,62775,5,2,Good,Very High,Yes
+E1408,25,IT,90769,5,2,Good,High,No
+E1409,32,Operations,81677,20,4,Average,Medium,No
+E1410,36,Operations,98555,15,1,Excellent,Low,No
+E1411,46,IT,100920,4,2,,High,No
+E1412,46,HR,60734,16,3,Average,Very High,No
+E1413,41,IT,116665,9,1,Excellent,Low,No
+E1414,59,Operations,103503,20,1,Poor,Medium,No
+E1415,56,Sales,55603,17,4,Poor,Low,No
+E1416,53,IT,91708,6,4,Poor,Very High,No
+E1417,50,IT,96926,2,4,Poor,High,No
+E1418,57,Finance,83803,12,4,Excellent,High,No
+E1419,43,Sales,54332,14,3,Poor,Very High,Yes
+E1420,30,Finance,106703,19,4,Average,High,No
+E1421,25,Operations,36312,18,2,Poor,Very High,No
+E1422,56,Sales,108376,2,3,Average,High,No
+E1423,54,Sales,99526,3,,Poor,High,No
+E1424,51,,59179,4,2,Good,High,No
+E1425,30,Sales,86442,0,2,Poor,Medium,Yes
+E1426,39,Operations,55379,3,3,Excellent,Medium,No
+E1427,52,IT,32297,11,1,Excellent,Very High,No
+E1428,21,Sales,17011,9,1,Poor,Medium,No
+E1429,25,Operations,59014,40,4,Excellent,Very High,No
+E1430,24,IT,26738,20,,Poor,Low,No
+E1431,36,IT,109333,19,2,Average,Low,No
+E1432,44,HR,62498,12,1,Poor,Medium,No
+E1433,36,IT,26120,40,1,Average,Low,Yes
+E1434,22,Sales,23767,13,4,Good,Low,No
+E1435,48,HR,37852,40,3,Good,High,No
+E1436,52,,94239,4,2,Average,High,No
+E1437,47,HR,15929,3,3,Good,Very High,No
+E1438,40,IT,92487,13,2,Average,Low,No
+E1439,44,HR,106575,9,3,Good,Very High,No
+E1440,32,Finance,110040,16,4,Average,Very High,Yes
+E1441,55,Sales,32438,9,3,Poor,Low,No
+E1442,53,,63515,6,3,Average,Medium,No
+E1443,53,IT,20744,15,2,Average,Low,No
+E1444,57,Sales,98820,0,3,Good,High,No
+E1445,32,Sales,57417,16,3,Excellent,Low,Yes
+E1446,23,Sales,22069,20,1,Poor,Medium,Yes
+E1447,21,IT,57359,8,3,Good,Very High,No
+E1448,53,HR,34799,5,2,Good,Very High,No
+E1449,5,Finance,113746,18,4,Excellent,High,Yes
+E1450,30,IT,108762,12,2,Average,High,No
+E1451,49,Sales,85188,2,,Good,High,No
+E1452,33,IT,104859,6,1,Excellent,Very High,No
+E1453,32,Finance,22597,35,3,Good,High,No
+E1454,51,Sales,62093,8,3,Average,Low,No
+E1455,22,Sales,52226,35,3,Poor,Very High,No
+E1456,55,Sales,87127,4,2,Average,Medium,No
+E1457,43,Finance,106369,9,3,Good,Very High,No
+E1458,37,IT,92362,40,3,Good,Low,No
+E1459,46,IT,41417,16,2,Poor,Low,No
+E1460,28,Finance,33693,11,2,Good,High,No
+E1461,49,Finance,94674,40,3,Good,Very High,Yes
+E1462,46,IT,68161,15,3,Good,Very High,No
+E1463,30,Operations,17169,2,2,Good,Very High,No
+E1464,46,Sales,99092,35,2,Excellent,Medium,No
+E1465,54,Sales,37052,8,2,Average,High,No
+E1466,95,HR,86849,14,3,Excellent,Low,No
+E1467,27,Sales,88851,4,3,Average,Low,No
+E1468,24,IT,23036,40,4,Average,High,No
+E1469,31,Operations,46778,12,,Average,Low,No
+E1470,49,Sales,42734,13,3,Poor,Low,No
+E1471,56,Sales,38173,19,1,Average,High,Yes
+E1472,45,IT,45403,14,1,Poor,Low,No
+E1473,41,Operations,81321,15,2,Excellent,Very High,No
+E1474,56,HR,86675,40,4,Poor,Medium,Yes
+E1475,30,IT,21344,12,3,Good,High,Yes
+E1476,57,Sales,33800,16,2,Poor,Medium,Yes
+E1477,29,Sales,40372,40,2,Excellent,Low,Yes
+E1478,44,,76516,7,3,Good,Low,No
+E1479,55,,35538,20,3,Poor,Very High,No
+E1480,55,Sales,78918,1,1,Good,High,No
+E1481,56,,29973,4,,Good,Low,No
+E1482,38,IT,86155,5,3,Good,High,No
+E1483,59,Operations,115240,11,1,Good,High,No
+E1484,52,IT,74500,17,4,Good,High,No
+E1485,44,IT,51575,35,1,Good,High,No
+E1486,43,IT,57261,35,4,Average,High,No
+E1487,52,IT,42716,0,,Poor,Medium,No
+E1488,57,Sales,18236,16,3,Excellent,Very High,No
+E1489,32,Sales,30848,10,3,Average,High,Yes
+E1490,33,HR,17352,9,2,Good,Medium,No
+E1491,43,Finance,16932,18,4,Poor,Low,No
+E1492,45,Sales,91449,13,3,Good,High,No
+E1493,55,IT,23556,9,3,,Low,No
+E1494,95,,101836,14,4,Average,High,Yes
+E1495,50,Sales,20498,18,,Average,Medium,No
+E1496,37,IT,91118,3,4,Good,Medium,Yes
+E1497,40,IT,65098,1,2,Excellent,Medium,No
+E1498,45,Operations,79386,8,,Average,Very High,No
+E1499,42,Sales,24569,9,3,Average,Low,No
+E1500,33,IT,71882,10,4,Excellent,Very High,Yes
+E1501,39,Finance,85393,13,3,Good,High,No
+E1502,56,Operations,15340,6,2,Poor,Low,No
+E1503,32,IT,58949,40,2,Poor,Medium,No
+E1504,95,IT,97302,14,3,Good,Low,Yes
+E1505,39,IT,77443,35,3,Average,Medium,No
+E1506,32,Operations,106668,18,2,Average,Very High,No
+E1507,29,IT,89027,35,3,Excellent,Very High,Yes
+E1508,27,Sales,15138,14,2,Poor,Medium,No
+E1509,48,Operations,15358,7,4,Good,Medium,No
+E1510,34,IT,90250,10,3,Average,High,No
+E1511,51,IT,100376,8,1,Good,Very High,No
+E1512,39,Sales,114931,14,1,Good,Very High,No
+E1513,36,IT,45654,0,1,Poor,High,No
+E1514,25,HR,40879,0,3,Good,Very High,No
+E1515,55,IT,96532,18,1,Poor,Medium,No
+E1516,32,Sales,70778,2,1,Excellent,Low,No
+E1517,45,IT,52772,9,4,Excellent,Low,No
+E1518,41,,73478,7,4,Average,Very High,No
+E1519,56,Sales,79353,14,3,Average,High,No
+E1520,43,,41762,9,,Average,Medium,No
+E1521,36,IT,28283,0,1,Good,Low,No
+E1522,59,Operations,78922,17,3,Average,Medium,No
+E1523,59,Finance,54420,1,3,Average,Very High,No
+E1524,34,IT,70568,18,3,Average,Very High,Yes
+E1525,51,Finance,100090,12,2,Poor,Low,Yes
+E1526,25,Operations,35219,35,3,Good,Very High,No
+E1527,55,IT,72169,0,2,Poor,High,No
+E1528,43,HR,115455,1,3,Good,Very High,No
+E1529,49,IT,89965,15,1,Average,Very High,Yes
+E1530,31,Finance,61840,14,1,Average,Very High,Yes
+E1531,38,Finance,59695,12,1,Good,Medium,Yes
+E1532,32,Finance,99754,15,2,,Medium,Yes
+E1533,29,IT,92988,16,3,Good,Low,Yes
+E1534,30,Finance,73342,20,1,Average,Low,No
+E1535,37,Sales,33951,6,4,Average,Low,No
+E1536,58,IT,16307,16,2,Excellent,Very High,No
+E1537,27,Sales,95388,6,1,Average,Medium,No
+E1538,33,HR,105768,12,3,Poor,High,No
+E1539,5,HR,50428,4,1,Excellent,Very High,Yes
+E1540,29,HR,107021,16,3,Excellent,Very High,Yes
+E1541,47,IT,90774,2,3,,Very High,No
+E1542,22,HR,53975,6,2,Excellent,High,No
+E1543,25,IT,16140,16,1,Excellent,Low,No
+E1544,49,Sales,39842,6,2,Poor,High,No
+E1545,57,HR,41421,20,1,Poor,Low,No
+E1546,58,Sales,16708,0,1,Good,High,No
+E1547,39,Sales,18630,16,2,Good,Medium,No
+E1548,28,IT,34595,16,2,Good,Very High,No
+E1549,21,IT,91021,10,3,Average,Very High,No
+E1550,42,IT,43308,2,3,Average,Very High,No
+E1551,37,IT,59789,14,3,Good,Low,Yes
+E1552,27,HR,70690,20,1,Poor,High,No
+E1553,45,Operations,41086,10,1,Average,Medium,No
+E1554,24,IT,31859,15,4,Good,High,No
+E1555,56,IT,22684,35,3,Good,Very High,No
+E1556,26,Sales,106088,8,4,Average,Medium,No
+E1557,51,HR,16207,0,2,Good,Medium,No
+E1558,39,HR,61099,35,3,Good,Very High,No
+E1559,59,HR,82496,15,3,Average,High,No
+E1560,47,IT,81093,8,2,Poor,Very High,No
+E1561,30,IT,44689,18,3,Average,High,No
+E1562,46,IT,63651,11,3,Average,Medium,No
+E1563,39,Finance,28893,18,2,Excellent,Medium,Yes
+E1564,59,Finance,112808,35,2,Poor,Very High,No
+E1565,23,Finance,81418,8,3,Good,Medium,No
+E1566,33,,118065,6,4,Poor,Low,No
+E1567,48,Sales,75011,13,2,Average,Medium,No
+E1568,40,Sales,53635,18,2,Good,Low,Yes
+E1569,48,Sales,71115,18,1,Average,Medium,No
+E1570,28,IT,110071,1,3,Good,Very High,No
+E1571,95,Operations,93405,8,2,Average,Very High,No
+E1572,59,Sales,87702,12,,Average,Low,Yes
+E1573,21,Operations,93518,14,2,Good,Very High,No
+E1574,23,Sales,118651,2,2,Average,Medium,No
+E1575,33,Operations,87805,10,3,Excellent,Medium,No
+E1576,48,HR,73954,20,4,Good,Very High,Yes
+E1577,45,Sales,43064,13,3,Average,Medium,No
+E1578,53,IT,94063,7,2,Poor,High,No
+E1579,58,HR,17454,17,,Good,High,No
+E1580,26,HR,35878,18,1,Good,Medium,No
+E1581,52,HR,66098,15,4,Average,Very High,No
+E1582,41,Finance,77154,1,1,Excellent,Low,Yes
+E1583,36,IT,27991,7,3,Average,Very High,No
+E1584,41,HR,83344,35,3,Excellent,Low,No
+E1585,31,IT,119946,5,2,Poor,Very High,No
+E1586,57,Finance,51593,11,4,Excellent,Medium,No
+E1587,56,HR,51304,14,1,Good,High,Yes
+E1588,55,IT,45386,7,2,Average,Very High,No
+E1589,39,Sales,70220,3,3,Average,Low,No
+E1590,40,Sales,84338,14,2,Average,High,Yes
+E1591,38,IT,109289,19,3,,Low,Yes
+E1592,95,Sales,36083,16,1,Average,Medium,Yes
+E1593,34,IT,33354,12,1,Poor,High,No
+E1594,35,Finance,37190,17,1,Good,Low,No
+E1595,51,Sales,21142,1,1,Good,Very High,No
+E1596,21,IT,43398,12,3,Good,Medium,Yes
+E1597,23,HR,66971,12,3,Good,Medium,No
+E1598,36,,56862,35,4,Average,Medium,Yes
+E1599,43,IT,113668,14,4,Excellent,Very High,No
+E1600,31,Finance,68410,19,1,Average,Very High,No
+E1601,32,IT,34503,9,2,Poor,High,No
+E1602,30,Sales,63456,2,1,Good,Very High,No
+E1603,52,IT,115167,18,2,Good,High,Yes
+E1604,36,,97035,2,3,Average,Medium,Yes
+E1605,28,IT,23016,35,1,Good,High,No
+E1606,58,Finance,17384,13,2,Average,Low,No
+E1607,32,Operations,77320,7,4,Average,Medium,No
+E1608,44,Sales,30072,40,3,Excellent,Medium,No
+E1609,48,Sales,117239,3,2,Poor,High,No
+E1610,28,IT,95018,19,1,Average,Medium,Yes
+E1611,48,IT,55510,10,2,Excellent,Very High,Yes
+E1612,56,Finance,63933,10,4,,Low,No
+E1613,46,Operations,36826,10,1,Good,High,Yes
+E1614,28,HR,83026,1,2,Good,High,No
+E1615,48,Sales,40518,16,1,Good,Medium,Yes
+E1616,48,Finance,39045,8,3,Excellent,Very High,No
+E1617,57,HR,65876,1,1,Excellent,Medium,No
+E1618,95,Finance,107446,14,4,Average,Medium,No
+E1619,56,IT,105102,15,4,Average,High,No
+E1620,47,IT,66919,3,3,Good,Medium,No
+E1621,37,Sales,114441,7,2,Good,Low,No
+E1622,29,IT,42103,8,4,Good,Medium,Yes
+E1623,53,IT,51188,4,3,Good,Medium,No
+E1624,40,IT,20845,15,2,,High,Yes
+E1625,33,Sales,101698,12,3,Poor,Medium,No
+E1626,48,Finance,51674,6,1,Average,Very High,No
+E1627,49,Operations,34337,19,1,Average,High,Yes
+E1628,33,Sales,37313,16,3,Average,Medium,No
+E1629,55,Sales,41943,2,2,Poor,Low,No
+E1630,26,Sales,92949,4,3,Poor,Low,No
+E1631,38,IT,15276,18,2,Good,High,No
+E1632,25,IT,66151,11,4,Excellent,High,No
+E1633,45,IT,32611,6,,Good,Medium,No
+E1634,22,Sales,119641,8,4,Good,Very High,Yes
+E1635,30,HR,26944,5,2,Average,Medium,No
+E1636,50,IT,67887,16,1,Good,Low,No
+E1637,25,IT,96442,15,3,Good,Very High,No
+E1638,53,,64847,40,1,Good,Very High,No
+E1639,21,Sales,73653,2,1,Average,Very High,No
+E1640,38,IT,101072,20,3,Poor,Medium,No
+E1641,52,IT,71622,3,3,Poor,Low,No
+E1642,31,IT,42810,9,,Good,High,No
+E1643,41,Finance,92842,4,2,Excellent,Medium,No
+E1644,46,IT,25503,20,2,Excellent,High,No
+E1645,45,,99761,35,1,Good,Very High,No
+E1646,42,Sales,51976,9,4,Good,Very High,Yes
+E1647,47,Sales,26590,11,3,Excellent,Medium,No
+E1648,33,Finance,25886,9,4,Average,Low,No
+E1649,53,IT,27866,12,4,Average,Very High,Yes
+E1650,54,HR,81624,10,3,Excellent,High,Yes
+E1651,95,Sales,83899,35,3,Average,High,No
+E1652,55,Sales,47792,15,2,Excellent,Medium,No
+E1653,21,Operations,24764,7,3,,High,No
+E1654,41,Sales,101156,7,3,Good,Low,No
+E1655,26,HR,57727,7,3,Excellent,Very High,Yes
+E1656,48,Sales,93471,12,4,Good,High,Yes
+E1657,37,HR,23068,1,,Good,High,No
+E1658,25,Sales,22295,11,3,Average,Very High,No
+E1659,51,IT,56160,9,3,Poor,Medium,No
+E1660,25,Sales,26390,11,3,Average,High,Yes
+E1661,58,Finance,35131,10,1,Good,Medium,No
+E1662,23,Sales,109754,14,1,Poor,Medium,No
+E1663,43,IT,90969,15,3,Poor,High,No
+E1664,57,Operations,30038,16,3,Poor,Low,No
+E1665,57,IT,67327,1,1,Good,Medium,No
+E1666,30,IT,108718,17,4,,High,No
+E1667,30,HR,92064,11,1,,Medium,Yes
+E1668,39,HR,36281,18,2,Good,Very High,Yes
+E1669,37,IT,69189,40,3,Excellent,Low,No
+E1670,41,,63511,17,1,Good,Low,No
+E1671,34,IT,23605,16,1,Good,Very High,No
+E1672,29,IT,115318,5,2,Good,Very High,No
+E1673,21,Finance,16381,14,3,Poor,Medium,No
+E1674,33,IT,81634,2,2,Excellent,Very High,No
+E1675,24,Sales,34810,5,3,Average,Low,No
+E1676,21,IT,39322,2,3,Average,Very High,Yes
+E1677,5,,56869,0,1,Good,High,Yes
+E1678,52,Sales,47955,12,,Average,High,No
+E1679,54,IT,76388,20,1,Average,Medium,No
+E1680,48,Sales,25207,13,,Good,Low,Yes
+E1681,51,IT,102329,12,3,Poor,High,No
+E1682,28,Sales,82628,3,,Good,Very High,Yes
+E1683,59,IT,43220,6,1,Good,High,No
+E1684,46,Finance,99050,35,3,Good,High,No
+E1685,54,HR,118546,9,1,Good,Medium,No
+E1686,23,IT,89085,6,1,Good,Very High,Yes
+E1687,32,Finance,37031,20,3,Good,Very High,No
+E1688,21,Operations,85721,14,2,Good,Very High,No
+E1689,25,Sales,95807,14,3,Good,Medium,Yes
+E1690,50,HR,86312,3,1,Good,Very High,Yes
+E1691,50,Sales,74766,40,2,Excellent,Very High,No
+E1692,37,,27449,40,3,Average,High,No
+E1693,43,Operations,104833,5,2,Average,High,No
+E1694,35,IT,71699,19,3,Excellent,Very High,No
+E1695,57,Finance,96253,4,3,Average,Low,No
+E1696,41,IT,119769,19,4,Poor,Low,Yes
+E1697,34,IT,61092,11,2,Good,Very High,Yes
+E1698,22,Sales,78671,0,3,Poor,Low,No
+E1699,31,Finance,25350,7,,Average,Medium,No
+E1700,59,Sales,111158,0,3,,High,No
+E1701,58,Finance,115859,4,3,Good,Medium,No
+E1702,54,Finance,83487,35,3,Average,High,No
+E1703,58,Finance,32622,5,3,,Low,No
+E1704,54,Sales,85263,20,3,,Low,No
+E1705,38,HR,68117,2,1,Average,Very High,No
+E1706,50,HR,118990,14,1,Average,Low,Yes
+E1707,35,HR,73394,4,4,Excellent,Low,No
+E1708,47,Sales,117005,13,2,Good,Very High,Yes
+E1709,54,Operations,116084,17,3,Good,Very High,No
+E1710,58,IT,38782,15,2,Excellent,High,No
+E1711,53,HR,43454,5,3,Good,Low,No
+E1712,44,HR,82904,13,1,Average,High,No
+E1713,35,IT,30592,7,1,Good,High,Yes
+E1714,50,IT,37173,6,,Average,Medium,No
+E1715,37,IT,48204,7,4,Good,Low,No
+E1716,25,Operations,50596,12,3,Good,Low,No
+E1717,49,IT,49324,5,3,Poor,Medium,No
+E1718,24,,76202,17,3,Good,High,No
+E1719,30,Operations,104400,1,3,Average,Low,No
+E1720,37,Sales,45750,7,3,Average,High,No
+E1721,30,Operations,91112,10,1,Good,Medium,Yes
+E1722,37,Sales,31566,0,3,Average,Very High,No
+E1723,40,Finance,22190,35,3,Good,High,No
+E1724,44,HR,103607,5,,Poor,Low,No
+E1725,25,Operations,53333,15,1,Good,Very High,No
+E1726,54,Operations,95905,19,3,Excellent,High,No
+E1727,26,Finance,104571,11,3,Good,High,No
+E1728,22,Finance,16589,10,2,Good,Very High,No
+E1729,33,HR,40235,9,1,,Very High,No
+E1730,31,Sales,15159,2,2,Average,Very High,No
+E1731,43,IT,27145,12,2,Poor,Low,Yes
+E1732,36,Sales,95909,2,2,Average,Low,No
+E1733,51,IT,46921,14,3,Poor,High,No
+E1734,31,HR,119859,15,3,,High,No
+E1735,36,,31237,12,3,Average,Medium,Yes
+E1736,28,IT,23244,16,4,Good,Low,No
+E1737,24,Finance,29743,2,2,Good,High,Yes
+E1738,5,Sales,112102,19,2,Average,Very High,Yes
+E1739,24,Operations,61101,10,3,Good,Very High,Yes
+E1740,45,Operations,99227,20,1,Poor,Low,No
+E1741,23,IT,114532,18,2,Good,Very High,Yes
+E1742,52,IT,71378,35,2,Poor,Medium,No
+E1743,23,Finance,86126,10,1,Excellent,High,No
+E1744,47,Sales,71071,15,4,,High,No
+E1745,49,IT,86121,20,2,Average,High,No
+E1746,52,HR,89763,2,3,Average,Low,No
+E1747,39,Sales,108814,35,1,Good,Very High,No
+E1748,41,HR,119350,5,3,Average,Medium,No
+E1749,25,Sales,27237,13,2,Excellent,Low,No
+E1750,38,Sales,30649,17,3,Good,High,No
+E1751,48,Sales,52713,16,2,Average,Medium,Yes
+E1752,42,,88463,3,1,Excellent,High,No
+E1753,41,IT,60409,40,3,Good,High,Yes
+E1754,26,,63766,14,1,Excellent,Low,No
+E1755,21,IT,61154,10,2,Excellent,High,No
+E1756,25,HR,22016,2,2,Average,Medium,No
+E1757,95,IT,94563,2,4,Poor,High,No
+E1758,32,IT,63688,15,1,,Very High,No
+E1759,46,Sales,104678,4,3,Excellent,High,No
+E1760,54,IT,69238,20,1,Poor,Low,No
+E1761,34,Sales,73608,9,2,Excellent,Medium,No
+E1762,46,IT,104081,18,2,Good,Low,No
+E1763,47,IT,46897,3,4,Average,Very High,No
+E1764,29,Sales,65961,18,2,Excellent,High,No
+E1765,46,Sales,83703,10,1,Average,Low,No
+E1766,42,Finance,59757,1,2,Excellent,Low,No
+E1767,50,IT,41917,9,1,Average,Low,No
+E1768,37,Sales,37736,10,1,Good,Low,Yes
+E1769,46,,42990,19,3,Average,Very High,No
+E1770,56,Sales,77551,15,1,Good,Very High,No
+E1771,21,IT,73161,18,1,Good,High,No
+E1772,28,,94623,40,3,Average,High,No
+E1773,55,Sales,37440,10,2,Good,Medium,No
+E1774,35,Sales,50205,13,1,Good,Very High,No
+E1775,42,Sales,95811,1,2,Poor,Low,No
+E1776,34,HR,70103,40,3,Excellent,Low,No
+E1777,46,Sales,85812,4,2,Average,Medium,No
+E1778,48,IT,56627,4,3,Good,Low,No
+E1779,43,Sales,118032,18,1,Good,Medium,No
+E1780,34,IT,34008,20,3,Good,High,No
+E1781,44,,86274,11,2,Poor,Very High,No
+E1782,22,Finance,47402,17,3,Average,Medium,No
+E1783,46,IT,68384,3,4,Good,Low,No
+E1784,34,HR,20793,35,3,Good,Medium,No
+E1785,27,IT,117827,16,2,Excellent,High,No
+E1786,23,IT,20571,9,2,Good,Low,No
+E1787,43,IT,111867,19,2,Poor,High,No
+E1788,38,Sales,31209,5,1,Average,High,No
+E1789,58,Operations,105930,13,1,Average,Medium,No
+E1790,55,IT,58148,10,3,Poor,High,No
+E1791,35,Sales,106218,10,2,Average,Low,Yes
+E1792,45,HR,17224,17,2,Average,High,No
+E1793,57,IT,63695,40,3,Average,High,No
+E1794,48,Finance,47441,35,3,Poor,Medium,Yes
+E1795,30,Finance,54129,17,1,Poor,High,Yes
+E1796,59,Finance,115252,40,4,Poor,Very High,No
+E1797,37,Sales,77368,10,1,Average,Medium,No
+E1798,59,IT,107122,20,3,Average,Medium,No
+E1799,42,IT,59760,11,3,Good,Low,No
+E1800,46,Sales,38478,4,3,Poor,Low,No
+E1801,45,HR,86854,40,3,Average,Low,No
+E1802,37,Finance,109230,8,1,Average,Low,No
+E1803,33,Sales,100716,8,2,Average,Very High,No
+E1804,40,IT,27180,35,3,Poor,Medium,No
+E1805,45,Sales,113538,9,2,Good,High,No
+E1806,24,Sales,30372,35,4,Good,Low,No
+E1807,30,Sales,44796,18,2,Average,Low,No
+E1808,23,,73272,0,2,Poor,Low,Yes
+E1809,95,Finance,104963,6,2,Excellent,High,No
+E1810,38,,113826,3,2,Average,Low,No
+E1811,56,IT,108635,0,3,Average,High,No
+E1812,42,Sales,69040,14,3,Excellent,Medium,No
+E1813,54,IT,90357,7,3,Excellent,Medium,No
+E1814,28,IT,86368,11,4,Average,Medium,No
+E1815,5,Finance,93356,35,4,Good,Very High,No
+E1816,39,Sales,31211,35,4,Average,High,No
+E1817,95,IT,20842,17,1,Poor,Low,No
+E1818,57,Sales,78115,14,3,Good,Low,No
+E1819,26,HR,81852,16,2,Poor,Low,Yes
+E1820,46,Finance,60968,13,1,Average,Low,No
+E1821,54,IT,32508,13,3,Excellent,Very High,No
+E1822,26,HR,37005,17,2,,Low,No
+E1823,57,HR,69575,19,1,Average,Very High,No
+E1824,53,IT,95742,17,1,Good,High,No
+E1825,42,Finance,33971,15,1,Good,Medium,No
+E1826,41,Operations,40599,0,4,Excellent,Low,No
+E1827,26,,102592,40,1,Average,Medium,No
+E1828,26,Finance,81914,10,2,Poor,High,Yes
+E1829,24,HR,82055,14,2,Average,High,No
+E1830,50,IT,102697,11,2,Average,Low,No
+E1831,31,IT,119397,7,4,Average,High,No
+E1832,50,HR,20355,35,1,Good,Medium,No
+E1833,51,Finance,69120,19,3,Good,Low,No
+E1834,44,Sales,89619,5,3,Average,Very High,No
+E1835,29,Operations,53342,2,4,Good,Low,No
+E1836,23,IT,100992,12,3,Poor,Medium,No
+E1837,51,IT,93860,12,4,Excellent,Low,No
+E1838,5,IT,17257,1,1,Excellent,Low,No
+E1839,57,Operations,42364,4,2,,Medium,No
+E1840,56,IT,39972,16,2,Excellent,Low,No
+E1841,44,IT,41654,5,4,Average,Low,No
+E1842,51,Sales,95769,1,1,Poor,Medium,No
+E1843,26,IT,96423,3,1,Good,High,No
+E1844,22,Sales,44320,35,2,Excellent,Medium,No
+E1845,40,Finance,35808,10,1,Average,Low,No
+E1846,48,IT,67389,7,1,Poor,Very High,No
+E1847,31,IT,110690,11,,Excellent,Very High,No
+E1848,24,Sales,49773,7,2,Poor,Medium,No
+E1849,35,Sales,66168,10,3,Average,Very High,No
+E1850,26,Finance,42747,35,3,Good,Low,Yes
+E1851,50,Sales,91396,19,2,Average,Low,No
+E1852,58,Sales,98692,7,1,Poor,Medium,No
+E1853,22,Sales,72505,7,2,Good,Low,No
+E1854,35,,100896,16,2,Good,High,No
+E1855,31,Finance,33135,19,3,,Low,No
+E1856,28,HR,105887,19,2,Average,Medium,No
+E1857,46,HR,111035,40,1,Poor,High,No
+E1858,25,HR,62377,15,3,Good,High,No
+E1859,26,Finance,38554,13,4,Good,Very High,Yes
+E1860,46,IT,77491,10,4,Average,Low,No
+E1861,24,Sales,70621,6,4,Good,Medium,No
+E1862,39,Sales,73283,15,3,Average,Very High,No
+E1863,40,Sales,100140,12,2,Average,Very High,No
+E1864,53,IT,31923,14,3,Poor,Low,No
+E1865,40,Finance,62591,15,1,Average,Low,No
+E1866,32,HR,77261,20,3,Average,Medium,No
+E1867,21,Sales,69336,40,3,Good,Very High,No
+E1868,46,Sales,89083,8,1,Good,Medium,No
+E1869,34,,75948,2,3,Excellent,Very High,No
+E1870,58,HR,48002,18,4,Poor,Very High,No
+E1871,57,Finance,95098,19,2,Poor,Very High,No
+E1872,31,IT,88016,4,4,Poor,Low,No
+E1873,56,HR,41672,9,1,Poor,Very High,Yes
+E1874,33,Sales,19213,16,3,Good,Very High,No
+E1875,23,Sales,25293,14,3,Good,Very High,Yes
+E1876,53,IT,114977,40,3,Good,High,No
+E1877,26,Finance,70860,7,4,Average,Low,No
+E1878,30,IT,77507,14,4,Average,High,Yes
+E1879,25,IT,72134,20,3,Good,Low,No
+E1880,43,Sales,17100,13,2,Poor,Medium,Yes
+E1881,30,,76997,19,4,Good,High,No
+E1882,22,Finance,43172,6,1,,Medium,No
+E1883,33,HR,35132,20,4,Average,Very High,No
+E1884,5,,33199,40,2,Good,Medium,No
+E1885,22,IT,51609,11,1,Good,Medium,Yes
+E1886,40,IT,57965,16,3,Poor,Medium,No
+E1887,21,Finance,23016,16,2,Good,Medium,Yes
+E1888,57,Finance,54779,9,2,Average,Low,No
+E1889,29,IT,117797,18,2,Poor,High,Yes
+E1890,37,Sales,46881,13,1,Good,Low,No
+E1891,29,HR,97594,10,1,Excellent,Low,No
+E1892,31,Operations,39472,1,1,Average,Low,No
+E1893,35,Sales,115462,17,2,Average,Medium,No
+E1894,44,HR,66813,6,1,Excellent,Low,No
+E1895,58,IT,115368,11,3,Excellent,High,Yes
+E1896,55,IT,51021,1,2,Good,Low,Yes
+E1897,50,IT,69131,19,4,Average,Very High,No
+E1898,51,Operations,39087,17,4,Excellent,Medium,No
+E1899,25,Sales,27828,5,2,Average,Very High,No
+E1900,34,Sales,76610,9,3,Good,High,Yes
+E1901,31,Sales,111664,19,4,Poor,High,No
+E1902,29,Operations,16401,14,,Good,High,Yes
+E1903,54,IT,100179,4,3,Average,High,No
+E1904,32,HR,30193,19,1,Average,Low,No
+E1905,55,Finance,107389,2,3,Average,Medium,Yes
+E1906,55,Operations,59864,4,3,Average,High,No
+E1907,21,Finance,35307,7,3,Good,Very High,No
+E1908,5,Operations,117518,7,2,Excellent,High,No
+E1909,42,HR,34611,7,4,,Medium,Yes
+E1910,49,Finance,58791,11,,Average,Very High,No
+E1911,28,IT,26950,40,2,Good,Very High,No
+E1912,31,Finance,91240,7,1,Good,Very High,No
+E1913,95,Finance,92403,10,1,Average,Low,No
+E1914,57,Finance,17745,13,4,Poor,High,Yes
+E1915,34,IT,70243,7,3,Good,Low,Yes
+E1916,50,Sales,18866,9,3,Excellent,Very High,No
+E1917,55,IT,47245,6,2,Good,Low,Yes
+E1918,41,,59724,16,3,Average,Low,No
+E1919,57,Operations,86354,3,2,Good,Low,No
+E1920,25,Sales,66374,12,3,Average,High,No
+E1921,39,Sales,45116,3,3,Good,Very High,No
+E1922,34,Sales,96029,4,,Good,Very High,No
+E1923,46,Finance,108574,35,4,Poor,High,No
+E1924,24,Finance,35447,3,4,Excellent,Low,Yes
+E1925,45,Sales,45431,17,2,Average,Low,No
+E1926,45,IT,32908,5,3,,Medium,No
+E1927,38,Finance,44336,40,3,Average,Medium,No
+E1928,5,Finance,55992,35,4,Average,Medium,No
+E1929,28,IT,70350,1,1,Average,High,Yes
+E1930,59,IT,84561,40,2,Average,Very High,No
+E1931,5,IT,66955,10,1,Poor,Medium,No
+E1932,34,HR,76240,13,3,Good,Very High,No
+E1933,52,IT,35093,4,2,Good,Very High,No
+E1934,58,IT,21155,5,2,Good,Very High,No
+E1935,53,Operations,61607,9,1,Poor,High,No
+E1936,43,IT,48487,7,2,Good,High,No
+E1937,35,Finance,70668,13,4,Poor,High,No
+E1938,53,Sales,35963,2,2,Good,High,No
+E1939,45,IT,65124,11,3,Poor,Medium,Yes
+E1940,37,Sales,67870,15,3,Excellent,Low,No
+E1941,53,Sales,71547,40,4,Good,Low,No
+E1942,22,Finance,79110,16,1,Good,Low,No
+E1943,34,,68554,0,,Average,Medium,No
+E1944,5,Sales,35936,40,3,Poor,Low,No
+E1945,5,IT,19426,9,,Average,Medium,Yes
+E1946,59,Finance,103839,40,4,Excellent,Medium,No
+E1947,26,Sales,42606,9,2,Excellent,Medium,No
+E1948,26,IT,62832,20,1,Poor,Low,No
+E1949,23,Finance,43151,1,2,Good,Very High,No
+E1950,27,IT,94303,8,3,Good,Low,Yes
+E1951,28,Sales,26308,35,1,Good,Low,No
+E1952,35,HR,77522,12,1,Poor,High,No
+E1953,49,Finance,60671,15,3,Average,Medium,Yes
+E1954,53,IT,105306,17,1,Average,Very High,No
+E1955,50,Sales,109108,18,1,Excellent,High,No
+E1956,59,Finance,17204,11,2,Good,Very High,No
+E1957,47,Sales,107769,7,1,Good,Very High,No
+E1958,56,Finance,102265,16,2,Excellent,Medium,No
+E1959,49,Sales,46131,14,3,Good,Low,Yes
+E1960,58,,67428,9,3,Excellent,Medium,Yes
+E1961,53,HR,48870,14,4,Good,Medium,No
+E1962,57,HR,118547,14,3,Poor,High,No
+E1963,47,Sales,119918,40,3,Excellent,Medium,No
+E1964,53,HR,64067,6,2,Good,Low,No
+E1965,24,Operations,73585,12,4,Average,Very High,Yes
+E1966,42,,36607,16,4,Average,Medium,No
+E1967,22,HR,39968,8,4,Poor,Very High,Yes
+E1968,30,IT,113934,7,3,Good,Medium,Yes
+E1969,25,Finance,26908,19,1,Excellent,Very High,No
+E1970,30,Operations,41423,20,2,Excellent,Medium,No
+E1971,53,IT,89707,17,1,Excellent,High,No
+E1972,58,HR,93257,12,4,Poor,Very High,No
+E1973,33,IT,76215,15,3,Average,Medium,Yes
+E1974,51,IT,70835,8,3,Poor,Medium,Yes
+E1975,56,Sales,64429,11,2,Excellent,High,No
+E1976,44,IT,97152,11,4,Average,High,Yes
+E1977,35,HR,53458,5,2,Good,High,No
+E1978,49,Finance,61169,18,1,Good,Very High,Yes
+E1979,28,Sales,22659,6,2,Average,Very High,No
+E1980,25,IT,75614,2,3,Average,High,Yes
+E1981,49,IT,92240,15,3,,Low,Yes
+E1982,24,IT,47793,17,4,,Low,No
+E1983,32,Sales,61473,15,1,Average,Medium,No
+E1984,22,IT,111762,40,3,Good,Low,Yes
+E1985,47,IT,104388,6,3,,Medium,No
+E1986,51,IT,112618,3,2,Poor,Very High,No
+E1987,56,IT,103330,7,4,Average,Very High,No
+E1988,56,IT,70751,12,3,Poor,Low,No
+E1989,46,Finance,93915,12,3,Good,Very High,Yes
+E1990,47,HR,69254,16,4,Poor,High,No
+E1991,25,Finance,22006,16,3,Average,High,No
+E1992,40,IT,89218,4,2,Average,Low,No
+E1993,31,Sales,80344,5,3,Good,Low,No
+E1994,30,Sales,48840,18,2,,Medium,No
+E1995,5,HR,47430,12,2,Excellent,Very High,No
+E1996,58,Finance,38091,13,1,Excellent,Medium,No
+E1997,26,Finance,47983,35,3,Good,Medium,No
+E1998,28,Finance,38989,3,3,Poor,High,Yes
+E1999,43,IT,90451,6,2,Average,High,No
+E2000,46,IT,33990,7,3,Excellent,High,Yes
+E2001,32,Sales,105270,12,4,Average,High,No
+E2002,46,HR,95360,5,1,Poor,Medium,No
+E2003,33,IT,51081,5,2,Good,High,No
+E2004,5,Sales,26033,20,3,Average,Very High,No
+E2005,38,Sales,31241,2,2,Average,High,Yes
+E2006,45,IT,20939,2,3,,High,Yes
+E2007,53,Finance,62562,12,1,Excellent,High,No
+E2008,5,,50063,35,3,Average,Low,Yes
+E2009,32,Operations,115000,1,3,,Very High,No
+E2010,56,IT,91721,15,3,Good,Very High,No
+E2011,24,IT,42045,35,4,Good,Medium,No
+E2012,25,IT,59769,5,4,Poor,Medium,No
+E2013,57,Finance,62118,7,3,Poor,High,No
+E2014,28,Sales,99703,40,3,Good,Low,No
+E2015,48,IT,116948,7,1,Excellent,Medium,No
+E2016,51,Finance,36625,5,3,Good,Medium,No
+E2017,29,HR,119724,13,1,Poor,High,No
+E2018,49,IT,42076,2,4,Poor,High,Yes
+E2019,34,IT,79805,9,2,Excellent,Medium,Yes
+E2020,5,Sales,59605,2,3,Poor,Medium,No
+E2021,95,HR,99565,11,2,Good,Very High,No
+E2022,42,HR,103509,16,3,Poor,Low,No
+E2023,31,Sales,54121,4,4,Poor,Very High,No
+E2024,43,Sales,80101,19,2,Good,Medium,No
+E2025,21,Finance,46433,8,4,Good,Very High,No
+E2026,57,HR,58309,20,2,Average,Very High,No
+E2027,41,IT,82468,19,3,Average,Medium,No
+E2028,46,HR,59254,6,4,Excellent,High,No
+E2029,56,Operations,82293,35,2,Average,Medium,No
+E2030,43,HR,111258,3,,Good,High,No
+E2031,21,IT,52853,12,1,,Medium,No
+E2032,5,Operations,53405,12,1,Poor,Medium,No
+E2033,35,Finance,81652,9,4,Excellent,Medium,No
+E2034,41,Sales,58527,17,1,Average,Low,No
+E2035,29,Finance,92227,16,,Good,High,No
+E2036,29,IT,15492,19,,Average,Low,No
+E2037,30,IT,108418,19,1,,Medium,No
+E2038,46,Sales,23811,12,3,Average,Very High,No
+E2039,95,Sales,108344,16,1,Average,Low,No
+E2040,55,Finance,39272,35,2,,High,No
+E2041,45,IT,108935,3,1,Good,Medium,No
+E2042,46,IT,87010,0,2,Good,Low,No
+E2043,31,Finance,107492,0,2,Average,Very High,No
+E2044,58,Finance,62153,14,2,Good,Low,No
+E2045,22,Sales,69110,12,,Poor,High,No
+E2046,27,IT,28979,16,4,Poor,Low,No
+E2047,38,Sales,43328,7,3,Good,Very High,No
+E2048,47,Finance,27867,17,3,Average,Very High,No
+E2049,54,IT,74234,12,4,,High,No
+E2050,47,,40851,40,2,Excellent,Very High,No
+E2051,37,Sales,46279,13,3,Good,Medium,No
+E2052,44,Sales,111063,7,,Excellent,Very High,No
+E2053,45,HR,88402,7,2,Good,Medium,Yes
+E2054,27,HR,30449,14,3,Poor,Low,Yes
+E2055,26,Sales,91221,12,4,Good,Medium,No
+E2056,44,Operations,104080,6,4,Average,Medium,No
+E2057,53,Sales,20451,4,3,Average,Low,Yes
+E2058,49,HR,102178,16,2,Excellent,Very High,No
+E2059,42,Finance,56316,15,2,Good,Medium,No
+E2060,46,IT,78064,40,1,Excellent,Very High,No
+E2061,48,Finance,78761,1,3,Average,Low,No
+E2062,41,Sales,53870,35,1,Good,High,No
+E2063,27,IT,111566,17,4,Poor,Very High,No
+E2064,37,Sales,45873,16,1,Good,Very High,No
+E2065,40,Sales,73627,6,1,Good,High,No
+E2066,95,Operations,81155,12,3,Good,High,No
+E2067,40,Sales,114186,17,3,Average,Low,No
+E2068,42,IT,40372,13,1,Poor,Very High,No
+E2069,48,IT,18642,17,2,Poor,Very High,No
+E2070,5,HR,43001,12,3,Good,Low,No
+E2071,27,Operations,49064,10,2,Excellent,Very High,No
+E2072,21,Sales,109826,20,1,Average,Medium,No
+E2073,52,IT,29122,20,4,Good,Medium,No
+E2074,33,,39820,15,3,Excellent,Medium,No
+E2075,50,IT,83431,40,1,Good,Very High,No
+E2076,43,Operations,70745,16,4,Good,Medium,No
+E2077,39,Sales,65081,7,,Excellent,Medium,Yes
+E2078,52,IT,85902,18,3,Average,Low,No
+E2079,50,HR,23711,19,3,Average,Low,No
+E2080,49,Finance,100132,14,4,Poor,High,No
+E2081,49,,33793,8,,,High,No
+E2082,50,HR,23199,19,3,Excellent,High,No
+E2083,36,IT,91253,9,2,Good,High,No
+E2084,5,Sales,51191,11,3,Poor,Low,No
+E2085,39,IT,25211,20,3,Average,Low,Yes
+E2086,38,IT,78069,40,1,Poor,Low,No
+E2087,21,,103896,19,2,Poor,Medium,No
+E2088,34,IT,71746,0,4,Good,Medium,No
+E2089,22,HR,36542,19,3,,High,Yes
+E2090,48,Sales,46312,8,2,Excellent,Medium,No
+E2091,50,Sales,60242,35,3,Good,Very High,Yes
+E2092,58,Sales,116971,14,1,Poor,Low,No
+E2093,24,HR,108783,0,2,Average,High,No
+E2094,21,Operations,102893,11,3,Average,High,Yes
+E2095,28,IT,70388,2,2,Good,Very High,No
+E2096,49,IT,42691,10,1,Excellent,Medium,No
+E2097,59,Sales,92960,1,,Average,High,No
+E2098,23,Operations,99388,15,2,Average,Medium,No
+E2099,52,Finance,37601,8,2,Poor,Medium,No
+E2100,30,Sales,33020,14,,Average,Very High,No
+E2101,30,Finance,23155,11,3,Good,High,Yes
+E2102,39,IT,84119,0,3,Poor,Medium,No
+E2103,54,Sales,96051,12,4,Good,Medium,No
+E2104,53,IT,51777,13,1,Excellent,Very High,No
+E2105,43,IT,34710,7,3,Good,Very High,No
+E2106,48,Sales,39532,7,3,Poor,Medium,Yes
+E2107,52,Operations,33601,11,4,Average,Very High,No
+E2108,27,Finance,78227,0,3,Good,Medium,Yes
+E2109,49,IT,19967,10,3,Average,High,No
+E2110,28,IT,99289,7,3,Average,Low,No
+E2111,21,IT,35022,9,3,Good,Very High,No
+E2112,23,IT,58463,18,3,Good,Low,No
+E2113,44,IT,89671,10,3,Good,Medium,Yes
+E2114,43,Sales,20722,6,3,Average,Medium,No
+E2115,28,IT,42413,10,3,Excellent,Medium,No
+E2116,57,Finance,107772,16,3,Average,Low,No
+E2117,23,IT,96050,0,3,Poor,Medium,No
+E2118,53,Sales,117748,20,4,Good,Very High,No
+E2119,48,Finance,100867,20,3,Good,High,No
+E2120,28,Sales,98596,7,4,Excellent,High,Yes
+E2121,54,HR,81732,40,4,Good,Very High,No
+E2122,55,Sales,27297,5,3,Excellent,High,No
+E2123,52,HR,83323,35,3,Excellent,Low,No
+E2124,44,Finance,38816,17,4,Good,Medium,Yes
+E2125,34,IT,55695,5,3,Good,Medium,No
+E2126,52,Sales,34702,4,4,Good,Medium,No
+E2127,36,Operations,40242,12,3,,Low,No
+E2128,24,Operations,70841,18,3,Good,Low,No
+E2129,57,Operations,82712,35,2,Poor,Low,No
+E2130,41,Sales,100663,7,2,Good,Very High,No
+E2131,34,IT,107764,8,,Average,Low,No
+E2132,51,,68574,16,3,Average,High,No
+E2133,38,Finance,100744,2,3,Average,Very High,No
+E2134,27,Sales,43482,18,4,Good,Very High,Yes
+E2135,30,Sales,24171,10,3,Excellent,Very High,No
+E2136,27,IT,115755,16,3,Average,Low,No
+E2137,53,Operations,113932,20,3,Poor,Very High,No
+E2138,43,IT,18696,18,3,Average,Low,No
+E2139,41,IT,35058,1,1,Good,Low,No
+E2140,39,Sales,35313,7,3,Average,Very High,Yes
+E2141,39,IT,34149,18,3,Average,Medium,No
+E2142,56,Finance,68521,6,2,Average,Medium,No
+E2143,49,HR,60740,16,3,Good,Very High,No
+E2144,38,Finance,19956,5,2,Average,Medium,No
+E2145,22,,90731,18,1,Good,High,No
+E2146,21,Sales,97612,5,2,Poor,High,No
+E2147,25,IT,81641,1,1,Good,Low,No
+E2148,40,HR,78811,5,3,Average,Medium,No
+E2149,31,Finance,67160,40,4,Good,High,No
+E2150,22,IT,66313,4,3,Average,Very High,No
+E2151,23,IT,78232,18,2,Good,Medium,Yes
+E2152,43,Finance,30417,19,1,Excellent,High,No
+E2153,32,HR,39729,3,2,Excellent,High,No
+E2154,40,Operations,45099,35,3,Good,Very High,No
+E2155,25,IT,113134,16,2,Good,Low,No
+E2156,57,Sales,44961,10,3,Excellent,Very High,No
+E2157,58,IT,27602,3,2,Good,Low,No
+E2158,50,Finance,24256,12,4,Average,High,No
+E2159,29,HR,101120,19,2,Excellent,Low,No
+E2160,54,Operations,49681,16,2,Average,High,No
+E2161,55,Operations,106328,8,4,Average,High,No
+E2162,42,HR,102440,3,2,Average,Medium,No
+E2163,44,,79789,40,1,Average,Low,Yes
+E2164,37,Sales,58361,13,3,Good,Low,No
+E2165,30,Sales,79503,18,3,Average,Low,No
+E2166,50,Sales,49540,2,3,Poor,Very High,No
+E2167,43,Operations,41536,13,2,Poor,Medium,Yes
+E2168,52,IT,99700,7,2,Good,Medium,No
+E2169,37,Sales,78043,0,2,Good,Medium,No
+E2170,37,IT,93532,9,1,Average,Very High,No
+E2171,34,IT,71575,17,4,Poor,Low,No
+E2172,29,Sales,17871,15,3,Poor,Low,No
+E2173,5,Operations,61002,7,2,Excellent,Low,No
+E2174,22,Finance,64812,0,3,Good,Medium,No
+E2175,45,IT,37626,11,2,Good,Medium,No
+E2176,59,,74979,7,4,Poor,High,No
+E2177,29,IT,91057,15,1,Good,Very High,No
+E2178,42,,81668,17,1,Good,Very High,Yes
+E2179,24,IT,114003,3,3,Average,Medium,No
+E2180,46,IT,95070,5,3,Poor,High,No
+E2181,49,Sales,104390,11,3,Average,Low,Yes
+E2182,54,Operations,57998,8,1,Excellent,Medium,No
+E2183,43,IT,78814,14,2,Excellent,Very High,No
+E2184,57,Sales,119601,15,3,Good,Very High,No
+E2185,31,Sales,60607,11,2,Good,Very High,Yes
+E2186,26,IT,22812,40,4,Poor,Low,No
+E2187,38,IT,76844,13,1,Good,Very High,Yes
+E2188,41,Finance,85093,12,3,Good,Low,Yes
+E2189,56,Operations,17179,1,3,Average,Low,No
+E2190,95,Sales,58798,2,2,Excellent,Low,No
+E2191,58,Finance,89601,35,3,Average,Medium,No
+E2192,54,Sales,23275,9,4,Average,Low,Yes
+E2193,37,Operations,65574,8,1,Good,High,No
+E2194,57,Finance,62857,19,4,Good,Very High,Yes
+E2195,45,IT,116484,7,3,Good,Medium,No
+E2196,58,Finance,35700,9,2,Poor,Very High,No
+E2197,32,HR,54464,18,2,Excellent,Low,No
+E2198,43,IT,57351,2,2,Good,Medium,Yes
+E2199,42,Finance,108330,4,3,Good,High,No
